@@ -16,7 +16,7 @@ library(pbapply)
 
 # define threshold
 
-threshold.totalUMI <- 700
+threshold.totalUMI <- 500
 threshold.MT.ratio <- 0.2
 threshold.doubletScores <- 0.4
 
